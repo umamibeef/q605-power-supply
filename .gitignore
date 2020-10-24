@@ -2,3 +2,4 @@
 .DS_Store
 fp-info-cache
 q605-power-supply.sch-bak
+*.kicad_pcb-bak
