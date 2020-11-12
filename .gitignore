@@ -1,5 +1,8 @@
 
 .DS_Store
-fp-info-cache
-q605-power-supply.sch-bak
-*.kicad_pcb-bak
+pcb/fp-info-cache
+pcb/q605-power-supply.sch-bak
+pcb/*.kicad_pcb-bak
+fw/nbproject
+fw/dist
+fw/build
